@@ -1,2 +1,1 @@
-# tindog-bootstrap-design
-First Bootstrap Web
+TinDog Starting Files
